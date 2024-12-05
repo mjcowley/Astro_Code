@@ -1,6 +1,6 @@
 # SED Attenuation and Emission Modelling
 
-![QARG](https://mjcowley.github.io/images/qarg_bw.png)
+<img src="https://mjcowley.github.io/images/qarg_bw.png" alt="QARG" width="500" />
 
 Python code for working with spectral energy distributions (SEDs), including:
 - Applying Calzetti+ 2000 dust attenuation to an SED using a range of $A_V$ values.
