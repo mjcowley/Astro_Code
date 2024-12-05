@@ -18,6 +18,8 @@ Python code for working with spectral energy distributions (SEDs), including:
 - **Dust Emission**: Add blackbody emission to simulate the impact of dust at a given temperature.
 - **Output**: Save the attenuated SEDs to a file for further analysis.
 
+![SED](https://mjcowley.github.io/images/SED-attenuation-and-emission.png)
+
 ## Usage
 
 1. Clone this repository or download the Jupyter notebook.
