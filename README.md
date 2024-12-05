@@ -2,7 +2,7 @@
 
 <img src="https://mjcowley.github.io/images/qarg_bw.png" alt="QUT Logo" width="500" />
 
-Welcome to the QARG repository, a collection of Python code for various astronomical analyses. This repository includes tools and scripts for tasks such as data analysis, modelling, and fitting techniques in astronomy.
+Welcome to the [QARG](https://research.qut.edu.au/qutastrophysics/) repository, a collection of Python code for various astronomical analyses. This repository includes tools and scripts for tasks such as data analysis, modelling, and fitting techniques in astronomy.
 
 ## Key Features
 
