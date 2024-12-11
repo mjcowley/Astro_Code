@@ -11,14 +11,14 @@ Python code for fitting a **Schechter function** to the corrected luminosity fun
 
 ## Files
 
-1. **SDSS_query.ipynb**: Jupyter notebook containing code to retrieve and process SDSS data for galaxies.
+1. **SDSS_query.ipynb** - Jupyter notebook containing code to retrieve and process SDSS data for galaxies.
 
 ## Key Features
 
-- **Data Querying**: Retrieve SDSS galaxy data based on redshift and location criteria.
-- **Attenuation Corrections**: Apply extinction corrections to apparent magnitudes using SDSS data.
-- **Luminosity Function Calculation**: Calculate the luminosity function for galaxies using the 1/Vmax method.
-- **Schechter Function Fitting**: Fit a Schechter function to the corrected luminosity function to estimate galaxy distribution parameters.
+- **Data Querying** - Retrieve SDSS galaxy data based on redshift and location criteria.
+- **Attenuation Corrections** - Apply extinction corrections to apparent magnitudes using SDSS data.
+- **Luminosity Function Calculation** - Calculate the luminosity function for galaxies using the 1/Vmax method.
+- **Schechter Function Fitting** - Fit a Schechter function to the corrected luminosity function to estimate galaxy distribution parameters.
 
 ![Luminosity Function](https://mjcowley.github.io/images/SDSS_Luminosity_Function.png)
 

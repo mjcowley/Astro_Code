@@ -2,13 +2,7 @@
 
 <img src="https://mjcowley.github.io/images/qarg_bw.png" alt="QUT Logo" width="500" />
 
-Welcome to the [QARG](https://research.qut.edu.au/qutastrophysics/) repository, a collection of Python code for various astronomical analyses. This repository includes tools and scripts for tasks such as data analysis, modelling, and fitting techniques in astronomy.
-
-## Key Features
-
-- **Reusable Scripts**: Code to assist in various aspects of astrophysical data analysis.
-- **Astronomical Models**: Implementations of well-known models such as the Schechter function and dust attenuation laws.
-- **Visualisation Tools**: Plotting and data visualisation tools for analysing astronomical data.
+Welcome to the [QARG](https://research.qut.edu.au/qutastrophysics/) repository, a collection of Python code for various astronomical analyses. This repository includes tools and scripts for tasks such as data analysis, modelling, visualisation, and fitting in astronomy.
 
 ## Contributing
 
