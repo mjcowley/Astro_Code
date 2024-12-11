@@ -6,14 +6,14 @@ This repository contains Python code for querying and processing ZFOURGE data fr
 
 ## Key Features
 
-- **Query ZFOURGE Data**: Retrieve data from multiple ZFOURGE catalogs including photometric and stellar population data.
-- **Data Selection**: Select galaxies based on the "use" flag, as detailed in the Straatman et al. 2016 paper, to ensure a standard selection of galaxies.
-- **Data Visualisation**: Plot mass vs redshift, both for the entire catalog and after applying the selection criteria.
-- **Data Masking**: Mask the data using the "use" flag to ensure you are working with a standard selection of galaxies.
+- **Query ZFOURGE Data** - Retrieve data from multiple ZFOURGE catalogs including photometric and stellar population data.
+- **Data Selection** - Select galaxies based on the "use" flag, as detailed in the Straatman et al. 2016 paper, to ensure a standard selection of galaxies.
+- **Data Visualisation** - Plot mass vs redshift, both for the entire catalog and after applying the selection criteria.
+- **Data Masking** - Mask the data using the "use" flag to ensure you are working with a standard selection of galaxies.
 
 ## Files
 
-1. **ZFOURGE-VizieR-Import.ipynb**: Jupyter notebook containing the full code to query, process, and visualise the ZFOURGE data.
+1. **ZFOURGE-VizieR-Import.ipynb** - Jupyter notebook containing the full code to query, process, and visualise the ZFOURGE data.
 
 ## Requirements
 
