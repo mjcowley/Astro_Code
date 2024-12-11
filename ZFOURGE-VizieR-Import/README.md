@@ -15,6 +15,8 @@ This repository contains Python code for querying and processing ZFOURGE data fr
 
 1. **ZFOURGE-VizieR-Import.ipynb** - Jupyter notebook containing the full code to query, process, and visualise the ZFOURGE data.
 
+![SED](https://mjcowley.github.io/qut/Images/uvj.png)
+
 ## Requirements
 
 - Python 3.x

@@ -20,12 +20,6 @@ Python code for working with spectral energy distributions (SEDs), including:
 
 ![SED](https://mjcowley.github.io/images/SED-attenuation-and-emission.png)
 
-## Usage
-
-1. Clone this repository or download the Jupyter notebook.
-2. Ensure the S0_template_norm.sed file is available in your directory.
-3. Run the Python code to plot and output the attenuated SEDs for various $A_V$ values.
-
 ## Requirements
 
 - Python 3.x
