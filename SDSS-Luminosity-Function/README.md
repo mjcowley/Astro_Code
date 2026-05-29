@@ -1,6 +1,6 @@
 # Luminosity Function Fitting with Schechter Model
 
-<img src="https://mjcowley.github.io/images/qarg_bw.png" alt="QARG" width="500" />
+<img src="https://mjcowley.github.io/images/qarg_bw_dark.png" alt="QARG" width="500" />
 
 Python code for fitting a **Schechter function** to the corrected luminosity function of galaxies. The example includes the following steps:
 
