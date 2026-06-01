@@ -1,6 +1,6 @@
 # UVJ Diagram and sSFR Analysis
 
-<img src="https://mjcowley.github.io/images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
+<img src="../Images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
 
 This repository contains Python code for querying, processing, and visualising galaxy data to create **UVJ diagrams** and analyse the **specific star formation rates (sSFR)** of galaxies. The project retrieves data from **Vizier** for the COSMOS field, filters galaxies by specific criteria (redshift, stellar mass, etc.), and then visualises galaxy populations on the UVJ diagram. Additionally, galaxies are coloured based on their sSFR to distinguish between star-forming and quiescent galaxies.
 

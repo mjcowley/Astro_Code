@@ -1,6 +1,6 @@
 # Vizier ZFOURGE Querying and Data Processing
 
-<img src="https://mjcowley.github.io/images/qarg_bw.png" alt="QUT Logo" width="500" />
+<img src="../Images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
 
 This repository contains Python code for querying and processing ZFOURGE data from the **Vizier** database. The ZFOURGE Survey provides a comprehensive collection of photometric data for galaxies in multiple fields: **CDFS**, **COSMOS**, and **UDS**. This code demonstrates how to retrieve and process catalogs from Vizier, perform data selection, and visualise key astrophysical parameters like stellar mass and redshift.
 

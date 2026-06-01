@@ -1,6 +1,6 @@
 # Astro_Code
 
-<img src="https://mjcowley.github.io/images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
+<img src="../Images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
 
 Welcome to the QUT Astrophysics Research Group [(QARG)](https://research.qut.edu.au/qutastrophysics/) repository, a collection of Python code for various astronomical analyses. This repository includes tools and scripts for tasks such as data analysis, modelling, visualisation, and fitting in astronomy.
 

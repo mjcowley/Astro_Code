@@ -1,6 +1,6 @@
 # Solar Elevation Calculator: Kidney Lawn Edition
 
-<img src="https://mjcowley.github.io/images/qarg_bw_dark.png" alt="Sun diagram" width="420"/>
+<img src="../Images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
 
 Interactive Jupyter notebook that generates half‑hour solar‑elevation tables for any date and location.  
 Originally built for QUT’s *AstroLab E1 – Solar Shadows and Solar Time* activity.
