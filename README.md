@@ -1,4 +1,4 @@
-# Astro_Code
+# astro_code
 
 <img src="Images/qarg_bw_dark.png" alt="QUT Logo" width="500" />
 
