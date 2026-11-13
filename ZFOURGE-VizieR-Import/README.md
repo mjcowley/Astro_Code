@@ -10,6 +10,7 @@ This repository contains Python code for querying and processing ZFOURGE data fr
 - **Data Selection** - Select galaxies based on the "use" flag, as detailed in the Straatman et al. 2016 paper, to ensure a standard selection of galaxies.
 - **Data Visualisation** - Plot mass vs redshift, both for the entire catalog and after applying the selection criteria.
 - **Data Masking** - Mask the data using the "use" flag to ensure you are working with a standard selection of galaxies.
+- **Local Caching** - Downloaded catalogues are saved to `vizier_cache/`, so re-runs don't query VizieR again.
 
 ## Files
 

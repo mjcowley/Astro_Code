@@ -7,6 +7,6 @@ matplotlib>=3.7
 scipy>=1.10
 astropy>=5.3
 astroquery>=0.4.7
-pytz
+timezonefinder
 ipywidgets>=8.0
 jupyter
