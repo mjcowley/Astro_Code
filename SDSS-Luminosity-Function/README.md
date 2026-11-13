@@ -27,7 +27,7 @@ Python code for fitting a **Schechter function** to the corrected luminosity fun
 1. Clone this repository or download the Jupyter notebook.
 2. Ensure that the required SDSS data is available or query it directly from the notebook.
 3. Run the notebook to compute the luminosity function and fit the Schechter function.
-4. Inspect the output CSV files for the fitted parameters and corrected luminosity function.
+4. Inspect the printed Schechter fit parameters and plots. To use the corrected luminosity function elsewhere, run the export cell, which copies it to the clipboard.
 
 ## Requirements
 
