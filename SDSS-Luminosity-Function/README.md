@@ -11,7 +11,7 @@ Python code for fitting a **Schechter function** to the corrected luminosity fun
 
 ## Files
 
-1. **SDSS_query.ipynb** - Jupyter notebook containing code to retrieve and process SDSS data for galaxies.
+1. **SDSS_Luminosity_Function.ipynb** - Jupyter notebook containing code to retrieve and process SDSS data for galaxies.
 
 ## Key Features
 

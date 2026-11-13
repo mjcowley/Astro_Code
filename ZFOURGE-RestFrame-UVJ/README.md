@@ -14,7 +14,7 @@ This repository contains Python code for querying, processing, and visualising g
 
 ## Files
 
-1. **UVJ_Diagram_Analysis.ipynb** - Jupyter notebook containing the full code for querying, processing, and visualising the data, as well as generating the UVJ diagram.
+1. **ZFOURGE-RestFrame-UVJ.ipynb** - Jupyter notebook containing the full code for querying, processing, and visualising the data, as well as generating the UVJ diagram.
 
 ![SED](https://mjcowley.github.io/qut/Images/uvj.png)
 
