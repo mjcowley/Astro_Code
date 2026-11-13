@@ -1,0 +1,12 @@
+# Dependencies for the notebooks in this repository.
+# ZFOURGE-EAZY has its own heavier requirements in ZFOURGE-EAZY/requirements.txt.
+# Install with: pip install -r requirements.txt
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+astropy>=5.3
+astroquery>=0.4.7
+pytz
+ipywidgets>=8.0
+jupyter
