@@ -16,3 +16,7 @@ ZFOURGE-EAZY/zfourge.*.zeropoint
 ZFOURGE-EAZY/zfourge.*.param
 ZFOURGE-EAZY/zfourge.*.translate
 ZFOURGE-EAZY/templates/
+
+# Downloaded catalogues and notebook outputs
+vizier_cache/
+SDSS-Luminosity-Function/sdss_luminosity_function.csv

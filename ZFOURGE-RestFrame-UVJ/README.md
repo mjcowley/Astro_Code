@@ -11,6 +11,7 @@ This repository contains Python code for querying, processing, and visualising g
 - **sSFR Analysis** - Colour galaxies on the UVJ diagram based on their specific star formation rate (sSFR), allowing for a more detailed classification.
 - **Data Filtering** - Apply filters to select galaxies within a specific redshift range (0.5 < z < 3.5) and stellar mass (lmass > 10).
 - **Data Masking** - Mask the data using the "use" flag to ensure you are working with a standard selection of galaxies.
+- **Local Caching** - Downloaded catalogues are saved to `vizier_cache/`, so re-runs don't query VizieR again.
 
 ## Files
 
