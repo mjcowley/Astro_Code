@@ -8,6 +8,7 @@ Originally built for QUT’s *AstroLab E1 – Solar Shadows and Solar Time* acti
 ## What It Does
 
 * Prompts for **Latitude**, **Longitude** and **Date** via notebook widgets.  
+* Looks up the local time zone from the coordinates (including daylight saving).
 * Computes Sun altitude (`AltAz`) at 30‑minute steps (09 h - 15 h local).  
 * Prints a clean table ready to paste into lab hand‑outs.  
 * Uses **Astropy** for precise solar positions.
@@ -24,7 +25,7 @@ Originally built for QUT’s *AstroLab E1 – Solar Shadows and Solar Time* acti
 * `astropy`
 * `pandas`
 * `numpy`
-* `pytz`
+* `timezonefinder`
 * `ipywidgets`
 
 ## Example Output

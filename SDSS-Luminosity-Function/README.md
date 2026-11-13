@@ -5,7 +5,7 @@
 Python code for fitting a **Schechter function** to the corrected luminosity function of galaxies. The example includes the following steps:
 
 - Querying SDSS for galaxy data with redshifts between 0.015 and 0.05.
-- Applying extinction corrections to apparent magnitudes to compute absolute magnitudes.
+- Applying extinction corrections to apparent magnitudes and computing absolute magnitudes with a flat ΛCDM cosmology.
 - Correcting the luminosity function using the 1/Vmax method.
 - Fitting the corrected luminosity function with the Schechter function model.
 
@@ -27,7 +27,7 @@ Python code for fitting a **Schechter function** to the corrected luminosity fun
 1. Clone this repository or download the Jupyter notebook.
 2. Ensure that the required SDSS data is available or query it directly from the notebook.
 3. Run the notebook to compute the luminosity function and fit the Schechter function.
-4. Inspect the printed Schechter fit parameters and plots. To use the corrected luminosity function elsewhere, run the export cell, which copies it to the clipboard.
+4. Inspect the printed Schechter fit parameters and plots. The export cell saves the corrected luminosity function to `sdss_luminosity_function.csv`.
 
 ## Requirements
 
@@ -37,3 +37,4 @@ Python code for fitting a **Schechter function** to the corrected luminosity fun
 - `numpy`
 - `astroquery`
 - `scipy`
+- `astropy`
